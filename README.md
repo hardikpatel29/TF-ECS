@@ -1,6 +1,6 @@
 # TF-ECS
 
-## This Repo create architecture of ECS with VPC Setup and ALB setup. Also configure app on ECS.
+## This Repo create architecture of ECS with VPC Setup and ALB setup. Also configure app on ECS. SETUP RDS AND Elasticache.
 
 Clone The REPO and HIT terraform commands.
 
