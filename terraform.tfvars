@@ -1,7 +1,3 @@
-#aws_access_key = "AKIAQCYQ46MIOXAOGTFA"
-
-#aws_secret_key = "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"
-
 
 #cidr_block = ""
 region = "us-east-1"
