@@ -96,5 +96,5 @@ db_name     = "mydemo"
 aws_access_key = "AKIA2B2ZF5KSBB7TZM5D"
 aws_secret_key = "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"
 
-alb_tls_cert_arn       = "arn:aws:acm:us-east-1:691139898020:certificate/79daa77d-9ca2-443f-95f3-f11216c6757d"
-ECS_Service_Scale_Role = "arn:aws:iam::691139898020:role/aws-service-role/ecs.application-autoscaling.amazonaws.com/AWSServiceRoleForApplicationAutoScaling_ECSService"
+alb_tls_cert_arn       = "arn:aws:acm:us-east-1:xxxx:certificate/79daa77d-9ca2-443f-95f3-f11216c6757d"
+ECS_Service_Scale_Role = "arn:aws:iam::xxxxx:role/aws-service-role/ecs.application-autoscaling.amazonaws.com/AWSServiceRoleForApplicationAutoScaling_ECSService"
