@@ -10,7 +10,7 @@ Clone The REPO and HIT terraform commands.
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
 <h3 align="center">Devops & Cloud Infrastructure Engineer,India</h3>
 
-- 🌱 I’m currently learning **terraform, AKS**
+- 🌱 I’m currently learning **terraform, AKS, Ansible**
 
 - 📝 I regularly write articles on [patelsaheb.medium.com](patelsaheb.medium.com)
 
